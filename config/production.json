@@ -1,5 +1,4 @@
 {
-    "port": 5000,
+    "port": 80,
     "mongoUri": "mongodb+srv://Illia:1234qwer@cluster0.tpkwl.mongodb.net/app?retryWrites=true&w=majority",
-    "baseUrl": "http://localhost:5000"
 }
